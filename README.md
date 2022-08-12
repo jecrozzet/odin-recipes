@@ -1,13 +1,13 @@
-Basic Recipe Website using HTML
+Basic Recipe Website using HTML  
 Learned HTML Skills:
   - HTML Boilerplate
   - Headings
   - Paragraphs
   - Links
   - Images
-  - Lists
+  - Lists  
 Other Learned Skills:
   - CLI operation
-  - Git and Github operation
+  - Git and Github operation  
 Useful Tools:
   - HTML Check / Validation
