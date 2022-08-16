@@ -1,0 +1,13 @@
+body {
+    font-family: "Helvetica", "Verdana", sans-serif;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+p,
+li {
+    font-size: 20px;
+}
